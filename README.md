@@ -1,6 +1,6 @@
-# DASCTF 征题 Docker 模板-MYSQL
+# DASCTF 征题 Docker 模板-MYSQL5.7
 ## 内含组件
-- MYSQL
+- MYSQL5.7
 
 ## 使用方法
 1. 请在 https://github.com/DASCTF-Test/Web-Mysql-Test  基础上修改即可。
